@@ -126,13 +126,14 @@ class Toast: UIView {
     }
     
     private func getSeverity() -> UIColor {
+        let divisor: CGFloat = 255.0
         switch severity! {
         case .Info:
             return UIColor.whiteColor()
         case .Warning:
-            return UIColor(rgba: "#FFD200")
+            return UIColor(red: 255.0/divisor, green: 210.0/divisor, blue: 0.0/divisor, alpha: 1.0)
         case .Error:
-            return UIColor(rgba: "#FF9494")
+            return UIColor(red: 255.0/divisor, green: 148.0/divisor, blue: 148.0/divisor, alpha: 1.0)
         }
     }
     
