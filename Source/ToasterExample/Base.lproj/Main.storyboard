@@ -32,7 +32,20 @@
                     <view key="view" contentMode="scaleToFill" id="8bH-Kt-9Cu">
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                        <subviews>
+                            <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" image="toast_bro.png" translatesAutoresizingMaskIntoConstraints="NO" id="iHo-kJ-zgh">
+                                <rect key="frame" x="228" y="228" width="144" height="144"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="144" id="raL-b0-4tw"/>
+                                    <constraint firstAttribute="height" constant="144" id="wjh-Ra-TBU"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="iHo-kJ-zgh" firstAttribute="centerX" secondItem="8bH-Kt-9Cu" secondAttribute="centerX" id="PV5-nN-FZV"/>
+                            <constraint firstItem="iHo-kJ-zgh" firstAttribute="centerY" secondItem="8bH-Kt-9Cu" secondAttribute="centerY" id="cQ5-jM-fRn"/>
+                        </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="Jgj-0s-4Si"/>
                 </viewController>
@@ -41,4 +54,7 @@
             <point key="canvasLocation" x="114" y="74"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="toast_bro.png" width="144" height="144"/>
+    </resources>
 </document>
