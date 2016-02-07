@@ -20,6 +20,22 @@ let thirdPartyHomeButtonError = Toast(withDuration: ToastDuration.Short,
         )
 ```
 
+Then...
+
+```swift
+Toaster.sharedInstance.load(withToasts:
+            [
+                thirdPartyHomeButtonError
+            ]
+        )
+```
+
+Finally...
+
+```swift
+Toaster.sharedInstance.pop(withErrorCode: 53)
+```
+
 ## Disambiguation
 
 - Duration:
