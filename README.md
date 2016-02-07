@@ -68,7 +68,7 @@ Who then brings oh such happy days!
 
 ## Lastly..
 
-This code is being released under the MIT licence, which means you can use it and modify it without payment to me. But I would still appreciate it if you credited me in your App, or tweeted me @cocotutch to say Thanks, and to show me how you used Sir Toaster of Kitchenshire and His Loyal Subject(s) to make your App awesome!
+This code is being released under the MIT licence, which means you can use it and modify it without payment to me. However, I would still appreciate it if you credited me in your App, or tweeted me @cocotutch to say Thanks. I'd also like to see how you used Sir Toaster of Kitchenshire and His Loyal Subject(s) to make your App awesome!
 
 I also welcome any pull requests you may have, which will improve this little module.
 
