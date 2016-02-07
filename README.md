@@ -1,4 +1,4 @@
-# Toaster ![alt text](https://github.com/cocotutch/toaster-ios/blob/master/toast_bro.png "Sir Toaster of Kitchenshire")
+![alt text](https://github.com/cocotutch/toaster-ios/blob/master/toast_bro.png "Sir Toaster of Kitchenshire") # Toaster 
 Open-Source Toast Notification class and protocol for iOS, written in Swift.
 
 ## What is Toaster?
