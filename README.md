@@ -42,7 +42,7 @@ let thirdPartyHomeButtonError = Toast(withDuration: ToastDuration.Short,
 
 ## TL;DR:
 
-![alt text](https://github.com/cocotutch/toaster-ios/blob/master/toast_piece.png "His Loyal Subject") ![alt text](https://github.com/cocotutch/toaster-ios/blob/master/toast_piece.png "His Loyal Subject")! [alt text](https://github.com/cocotutch/toaster-ios/blob/master/toast_piece.png "His Loyal Subject")
+![alt text](https://github.com/cocotutch/toaster-ios/blob/master/toast_piece.png "His Loyal Subject") ![alt text](https://github.com/cocotutch/toaster-ios/blob/master/toast_piece.png "His Loyal Subject") ![alt text](https://github.com/cocotutch/toaster-ios/blob/master/toast_piece.png "His Loyal Subject")
 
 Get given to...
 
