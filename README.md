@@ -4,6 +4,8 @@ Open-Source Toast Notification class and protocol for iOS, written in Swift.
 
 ## What is Toaster?
 Toaster is a Swift module for popping in-app toast notifications to users, without polluting Notification Center with errant nonsense.
+
+## Screenshot
 ![alt text](https://github.com/cocotutch/toaster-ios/blob/master/Source/screenshot.png "A screenshot! Ta-da!")
 
 ## How do I use Toaster?
